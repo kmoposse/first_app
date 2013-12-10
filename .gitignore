@@ -10,7 +10,7 @@ tmp/**/*
 doc/app
 doc/api
 .DS_Stt
-Gemfile.lock
+.DS_Store
 *.swp
 
 # Ignore bundler config.
